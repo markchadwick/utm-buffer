@@ -12,4 +12,4 @@ CREATE TABLE multi AS
     "raw"
 ;
 
-DROP TABLE "raw";
+-- DROP TABLE "raw";
